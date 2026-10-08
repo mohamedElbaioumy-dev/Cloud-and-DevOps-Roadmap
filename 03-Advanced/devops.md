@@ -36,16 +36,16 @@
 ### Resources
 
 #### Primary Resources (Arabic)
-- [Docker](https://www.youtube.com/watch?v=PrusdhS2lmo)
-- [CI / CD](https://youtu.be/qP8kir2GUgo)
-- [GitHub Actions](https://youtu.be/7gJFHjXscr8?si=Zn81impWks-245kL)
-- [Ansible](https://www.youtube.com/watch?v=OTV31UiSmy4)
-- [Terraform](https://www.youtube.com/watch?v=Op5jZTQaUgo)
+- [Ahmed Sami - Docker and Kubernetes](https://www.youtube.com/watch?v=PrusdhS2lmo)
+- [TechWorld with Nana - GitLab CI CD Tutorial for Beginners [Crash Course]](https://youtu.be/qP8kir2GUgo)
+- [Ahmed Elfakharany - GitHub Actions](https://youtu.be/7gJFHjXscr8?si=Zn81impWks-245kL)
+- [Mohamed Rizk - Ansible](https://www.youtube.com/watch?v=OTV31UiSmy4)
+- [Mohamed Rizk - Terraform](https://www.youtube.com/watch?v=Op5jZTQaUgo)
 
 #### Alternative Resources (Arabic)
-- [Docker Playlist 1](https://youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR&si=c5WIRIjPCN3eUdc5)
-- [Docker Playlist 2](https://www.youtube.com/watch?v=DFyPl2cZM2g&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ)
-- [Kubernetes (K8s) Playlist](https://www.youtube.com/watch?v=jTggu1HiKyY&list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl)
+- [Tresmerge - Docker Practical Course in Arabic ](https://youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR&si=c5WIRIjPCN3eUdc5)
+- [Codographia - Docker](https://www.youtube.com/watch?v=DFyPl2cZM2g&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ)
+- [Codographia - Kubernetes (K8s) Playlist](https://www.youtube.com/watch?v=jTggu1HiKyY&list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl)
 
 #### Udemy Courses (Paid)
 - [Imran Teli - Decoding DevOps](https://www.udemy.com/course/decodingdevops/?couponCode=26BBPAA2MX)

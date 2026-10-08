@@ -126,11 +126,11 @@
 ### Resources
 
 #### Primary Resources (Arabic)
-- [Ahmed Elfakharany - Playlist](https://www.youtube.com/playlist?list=PLZmPGUyBFvUqo76bXGnXq9EofsaV2d8K5)
-- [Mohamed Rizk - Playlist](https://www.youtube.com/playlist?list=PLluZGtIpwF_B6IHB6q1pG8AJAIvpJHNIH)
+- [Ahmed Elfakharany - AWS Certified Cloud Practitioner CLF02](https://www.youtube.com/playlist?list=PLluZGtIpwF_B6IHB6q1pG8AJAIvpJHNIH)
+- [Mohamed Rizk - AWS Cloud Practitioner CLF02  Arabic](https://www.youtube.com/playlist?list=PLZmPGUyBFvUqo76bXGnXq9EofsaV2d8K5)
 
 #### Alternative Resources (English)
-- [freeCodeCamp - Andrew Brown](https://youtu.be/7HKot-brXFE?si=Zo_HmOkibZUQDPc7)
+- [freeCodeCamp - Andrew Brown - AWS Certified Cloud Practitioner Certification Course 2026 (CLF-C02)](https://youtu.be/7HKot-brXFE?si=Zo_HmOkibZUQDPc7)
 
 #### Learning Platforms
 - [AWS Skill Builder](https://skillbuilder.aws/)

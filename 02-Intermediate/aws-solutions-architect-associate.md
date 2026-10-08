@@ -70,9 +70,10 @@
 
 #### Primary Resources (Arabic)
 - [Eissa Abo Shreif - Playlist](https://www.youtube.com/watch?v=E3nLSHQtLes&list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)
-
+#### Alternative Resources (Arabic)
+- [Mohamed Rizk - AWS Solutions Architect Associate (SAA-C03)](https://www.youtube.com/watch?v=xBezC5jrvyg&list=PLa4rhYmwS38Y)
 #### Alternative Resources (English)
-- [freeCodeCamp - Andrew Brown](https://youtu.be/c3Cn4xYfxJY?si=yX8vaeEjiVO1RDMX)
+- [freeCodeCamp - Andrew Brown - AWS Solutions Architect Associate Certification (SAA-C03) – Full Course to PASS the Exam](https://youtu.be/c3Cn4xYfxJY?si=yX8vaeEjiVO1RDMX)
 
 #### Learning Platforms
 - [AWS Skill Builder](https://skillbuilder.aws/)
