@@ -42,8 +42,8 @@ The learning materials provided in each section are the recommended primary reso
 - Hands-on Labs
 
 ### 📁 [02-Intermediate (AWS)](./02-Intermediate/)
-- [AWS Certified Cloud Practitioner](./02-Intermediate/aws-cloud-practitioner.md)
-- [AWS Certified Solutions Architect – Associate (SAA)](./02-Intermediate/aws-solutions-architect-associate.md)
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect – Associate (SAA)
 - Hands-on Labs & Architecture Practice
 
 ### [📁 03-Advanced (DevOps)](./03-Advanced/devops.md)
