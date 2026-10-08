@@ -7,9 +7,9 @@
 - [ ] [Intro to Networks](https://youtu.be/8cAmDg65qyk?si=un4WZ_SxCWym3fyG)
 - [ ] [Networks Terms](https://youtu.be/02Jo7gR9GnA?si=hEnZzJKtEqgxkOlU)
 - [ ] [OSI Model Part 1](https://youtu.be/UV_T_744vRo?si=-q-9hms5L4VUGSYm)
-- [ ] [OSI Model Part2](https://youtu.be/jhpN6Uh7uEQ?si=gwmuNRYT--GhWnPe)
+- [ ] [OSI Model Part 2](https://youtu.be/jhpN6Uh7uEQ?si=gwmuNRYT--GhWnPe)
 - [ ] [TCP_IP Model Part 1](https://youtu.be/pb2hhd1fhAs?si=6dBAYuQr0LtazBVT)
-- [ ] [TCP IP Model Part2](https://youtu.be/IbqAVzYWKes?si=pVWSFbQYkbpVMy8C)
+- [ ] [TCP IP Model Part 2](https://youtu.be/IbqAVzYWKes?si=pVWSFbQYkbpVMy8C)
 - [ ] [TCP|IP Exercises](https://youtu.be/GxtyySPBeaY?si=QXuEXJehSRDnzTJ5)
 - [ ] [IPv4 Addressing Part 1](https://youtu.be/Ah64EqEIZ9Y?si=ImBasn_RPQb9fsKv)
 - [ ] [IPv4 Addressing Part 2](https://youtu.be/3w-mKSm3XbE?si=oYtV-rZdQncF-8JJ)
@@ -21,13 +21,13 @@
 #### Tasks
 - [ ] Task
 
-#### Additional Resources
-- [Sameh Ramadan](https://www.youtube.com/playlist?list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He)
-- [Abeer Hosni](https://www.youtube.com/watch?v=d9fJcL9CReA&list=PLped9VG7STA-SnQv4X9lauBZGH4rW8ICF)
-- [Ahmed Nazmy](https://www.youtube.com/watch?v=J2xws7u7ZeM&list=PL77yNtB4-LjnN2FU3h1v5hIJOHZfW9ugq)
+#### Additional Resources (Arabic)
+- [Sameh Ramadan - CompTIA Network+](https://www.youtube.com/playlist?list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He)
+- [Abeer Hosni - Cisco CCNA 200-301 Complete Course](https://www.youtube.com/watch?v=d9fJcL9CReA&list=PLped9VG7STA-SnQv4X9lauBZGH4rW8ICF)
+- [Ahmed Nazmy - CCNA 200-301 Arabic Course](https://www.youtube.com/watch?v=J2xws7u7ZeM&list=PL77yNtB4-LjnN2FU3h1v5hIJOHZfW9ugq)
 
 #### Additional Resources (English)
-- [Jeremy's IT Lab](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
+- [Jeremy's IT Lab - Free CCNA 200-301 Complete Course](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 #### Tools
 - Packet Tracer
@@ -64,11 +64,11 @@
 - [ ] Lab
 
 #### Primary Resources
-- [Karim Abd Elhamid - Mahra Tech](https://maharatech.gov.eg/course/view.php?id=2115)
+- [Karim Abd Elhamid - RHEL Administration Course (Mahara Tech)](https://maharatech.gov.eg/course/view.php?id=2115)
 
 #### Alternative Resources (Arabic)
-- [Ahmed Sami](https://youtu.be/gojeTqXdBH0?si=EdGDxm6hgYIFu1Rn)
-- [Alaa Mohammed](https://youtu.be/UFJL5UX0z6Q?si=_LdrCzqsCHnB4CWy)
+- [Ahmed Sami - Linux Administration / RHCSA Course](https://youtu.be/gojeTqXdBH0?si=EdGDxm6hgYIFu1Rn)
+- [Alaa Mohammed - RedHat Linux System Administration I (RHCSA)](https://youtu.be/UFJL5UX0z6Q?si=_LdrCzqsCHnB4CWy)
 
 ---
 
@@ -83,7 +83,7 @@
 - [ ] Task
 
 #### Alternative Resources (English)
-- [Learn Linux TV](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
+- [Learn Linux TV - Bash Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
 
 ### Week 4: Git & GitHub
 > **Description:** This section covers Git and GitHub fundamentals, providing the version control and collaboration skills required for modern software development, Cloud, and DevOps environments.
@@ -91,8 +91,8 @@
 - [ ] [Git & GitHub Tutorial](https://youtu.be/Q6G-J54vgKc?si=jcW9PYEUGvL4-nrm)
 
 #### Alternative Resources
-- [Ghareeb Elshaikh](https://youtu.be/fDkR0TDR9dI?si=oG6VsfzN0oY4Ufg8)
-- [Mostafa Magdy](https://www.youtube.com/watch?v=0klTgJ0_7C0)
+- [Ghareeb Elshaikh - Git & GitHub Crash Course in Arabic](https://youtu.be/fDkR0TDR9dI?si=oG6VsfzN0oY4Ufg8)
+- [Mostafa Magdy - Learn Git and GitHub in Arabic](https://www.youtube.com/watch?v=0klTgJ0_7C0)
 
 ---
 
