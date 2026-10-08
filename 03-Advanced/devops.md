@@ -38,7 +38,7 @@
 -  [DevOps Directive - GitHub Actions](https://www.youtube.com/watch?v=Xwpi0ITkL3U)
 - [DevOps Directive - Terraform](https://www.youtube.com/watch?v=7xngnjfIlK4)
 - [Mohamed Eldesouki - Ansible](https://www.youtube.com/playlist?list=PLOeEp3fYj7rojjhsYYgtM_iOOaPnigrmT)
-#### Alternative Resources (Arabic)
+#### Alternative Resources
 - [Tresmerge - Docker Practical Course in Arabic ](https://youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR&si=c5WIRIjPCN3eUdc5)
 - [Codographia - Docker](https://www.youtube.com/watch?v=DFyPl2cZM2g&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ)
 - [Codographia - Kubernetes (K8s) Playlist](https://www.youtube.com/watch?v=jTggu1HiKyY&list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl)
