@@ -18,6 +18,9 @@
 - [ ] [Routing Part 2](https://youtu.be/8-mpgi203V0?si=IZEjeNo-czVxd3b4)
 - [ ] [NAT](https://youtu.be/bR8OlNmnn54?si=xUGU266GV9UBY1tN)
 
+#### Tasks
+- [ ] Task
+
 #### Additional Resources
 - [Sameh Ramadan](https://www.youtube.com/playlist?list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He)
 - [Abeer Hosni](https://www.youtube.com/watch?v=d9fJcL9CReA&list=PLped9VG7STA-SnQv4X9lauBZGH4rW8ICF)
@@ -44,6 +47,8 @@
 - [ ] [CH06_Managing Local Users and Groups](https://maharatech.gov.eg/course/section.php?id=7394)
 - [ ] [CH07_ Controlling Access to Files](https://maharatech.gov.eg/course/section.php?id=7395)
 - [ ] [CH08_Monitoring and Managing Linux Processes](https://maharatech.gov.eg/course/section.php?id=7396)
+
+#### Tasks
 - [ ] Lab 1
 
 ### Week 3
@@ -54,6 +59,8 @@
 - [ ] [CH13_Archiving and Transferring Files](https://maharatech.gov.eg/course/section.php?id=7404)
 - [ ] [CH14_Installing and Updating Software Packages](https://maharatech.gov.eg/course/section.php?id=7402)
 - [ ] [CH15_ Accessing Linux File Systems](https://maharatech.gov.eg/course/section.php?id=7414)
+
+#### Tasks
 - [ ] Lab 2
 
 #### Primary Resources
@@ -71,6 +78,8 @@
 > **Description:** This section introduces Bash scripting and automation fundamentals, helping you automate repetitive tasks, manage Linux systems more efficiently, and build the scripting skills commonly used in Cloud and DevOps environments.
 
 - [ ] [Bash Script Tutorial](https://youtu.be/Ba65frCLQ-Y?si=fpPeX6R4wcBJssgh)
+
+#### Tasks
 - [ ] Task
 
 #### Alternative Resources (English)
