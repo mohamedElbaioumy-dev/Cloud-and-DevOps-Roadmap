@@ -34,7 +34,7 @@ The learning materials provided in each section are the recommended primary reso
 
 ## 🗺️ Roadmap Structure & Links
 
-### [📁 01-Beginner (Basics)](./01-Beginner/beginner.md)
+### [📁 01-Beginner (Basics)](./01-Beginner/Basics.md)
 - Network Fundamentals
 - Linux
 - Bash Scripting
