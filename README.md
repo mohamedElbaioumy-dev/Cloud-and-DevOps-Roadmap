@@ -49,7 +49,6 @@ The learning materials provided in each section are the recommended primary reso
 ### [📁 03-Advanced (DevOps)](./03-Advanced/devops.md)
 - Docker
 - GitHub Actions
-- CI/CD
 - Terraform
 - Ansible
 - Hands-on Labs
