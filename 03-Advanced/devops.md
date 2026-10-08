@@ -33,10 +33,10 @@
 
 ### Resources
 
-#### Primary Resources (Arabic)
+#### Primary Resources
 - [Ahmed Sami - Docker and Kubernetes](https://www.youtube.com/watch?v=PrusdhS2lmo)
+-  [DevOps Directive - GitHub Actions](https://www.youtube.com/watch?v=Xwpi0ITkL3U)
 - [DevOps Directive - Terraform](https://www.youtube.com/watch?v=7xngnjfIlK4)
-- [DevOps Directive - GitHub Actions](https://www.youtube.com/watch?v=Xwpi0ITkL3U)
 - [Mohamed Eldesouki - Ansible](https://www.youtube.com/playlist?list=PLOeEp3fYj7rojjhsYYgtM_iOOaPnigrmT)
 #### Alternative Resources (Arabic)
 - [Tresmerge - Docker Practical Course in Arabic ](https://youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR&si=c5WIRIjPCN3eUdc5)
