@@ -41,7 +41,7 @@ The learning materials provided in each section are the recommended primary reso
 - Git & GitHub
 - Hands-on Labs
 
-### 📁 02-Intermediate (AWS)
+### 📁 [02-Intermediate (AWS)](./02-Intermediate/)
 - [AWS Certified Cloud Practitioner](./02-Intermediate/aws-cloud-practitioner.md)
 - [AWS Certified Solutions Architect – Associate (SAA)](./02-Intermediate/aws-solutions-architect-associate.md)
 - Hands-on Labs & Architecture Practice
