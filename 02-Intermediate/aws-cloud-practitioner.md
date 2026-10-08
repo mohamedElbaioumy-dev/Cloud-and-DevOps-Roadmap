@@ -23,7 +23,7 @@
 - [ ] [CloudFront, Route53, Outposts, Wavelength, Local Zone](https://youtu.be/ti47L9pjNeg)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 1](../04-Hands-On/02-Intermediate/aws-cloud-practitioner/lab-1.md)
 
 ---
 
@@ -50,7 +50,7 @@
 - [ ] [CloudFront & Route53](https://youtu.be/ti47L9pjNeg)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 2](../04-Hands-On/02-Intermediate/aws-cloud-practitioner/lab-2.md)
 
 ---
 
@@ -81,7 +81,7 @@
 - [ ] [S3](https://youtu.be/nAy7BYG87cQ)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 3](../04-Hands-On/02-Intermediate/aws-cloud-practitioner/lab-3.md)
 
 ---
 
@@ -119,7 +119,7 @@
 - [ ] [Organizations, CloudFormation, Snow Family, Billing & Costs](https://youtu.be/Hx1M4xvAUrI)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 4](../04-Hands-On/02-Intermediate/aws-cloud-practitioner/lab-4.md)
 
 ---
 

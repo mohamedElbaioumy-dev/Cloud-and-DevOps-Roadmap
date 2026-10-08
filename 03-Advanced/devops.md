@@ -6,18 +6,21 @@
 - [ ] [Docker Tutorial](https://www.youtube.com/watch?v=PrusdhS2lmo)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 1 (Docker Part 1)](../04-Hands-On/03-Advanced/docker/lab-1.md)
+- [ ] [Lab 2 (Docker Part 2)](../04-Hands-On/03-Advanced/docker/lab-2.md)
 
 ## Week 3
 ### CI / CD
 - [ ] [CI / CD Overview](https://youtu.be/qP8kir2GUgo)
+#### Tasks 
+- [ ] [Lab 3](../04-Hands-On/03-Advanced/cicd/lab-3.md)
 
 ## Week 4
 ### GitHub Actions
 - [ ] [GitHub Actions](https://youtu.be/7gJFHjXscr8?si=Zn81impWks-245kL)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 4](../04-Hands-On/03-Advanced/github-actions/lab-4.md)
 
 ## Week 5
 ### Infrastructure as Code & Configuration Management
@@ -25,7 +28,8 @@
 - [ ] [Terraform](https://www.youtube.com/watch?v=Op5jZTQaUgo)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 5 (Ansible)](../04-Hands-On/03-Advanced/ansible/lab-5.md)
+- [ ] [Lab 6 (Terraform)](../04-Hands-On/03-Advanced/terraform/lab-6.md)
 
 ---
 

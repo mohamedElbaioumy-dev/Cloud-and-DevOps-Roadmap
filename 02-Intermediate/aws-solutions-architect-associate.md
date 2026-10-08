@@ -7,7 +7,7 @@
 - [ ] [Introduction to AWS Services – Part 2](https://www.youtube.com/live/1P_hIfeVnhk?si=ARepQvT0r4yzLwRw)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 1](../04-Hands-On/02-Intermediate/aws-solutions-architect-associate/lab-1.md)
 
 ## Week 2
 ### Compute, Elasticity & High Availability
@@ -15,7 +15,7 @@
 - [ ] [AWS Elastic Load Balancing (ELB) & Auto Scaling](https://youtu.be/C1GNGy4yBFQ?si=Bv91mBBUraZUNXhN)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 2](../04-Hands-On/02-Intermediate/aws-solutions-architect-associate/lab-2.md)
 
 ## Week 3
 ### Database Layer & Caching
@@ -23,7 +23,7 @@
 - [ ] [Amazon NoSQL Databases](https://www.youtube.com/live/JftzZdoVpss?si=W6Vr30SgGafI0CEj)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 3](../04-Hands-On/02-Intermediate/aws-solutions-architect-associate/lab-3.md)
 
 ## Week 4
 ### Networking, Connectivity & Disaster Recovery
@@ -31,7 +31,7 @@
 - [ ] [Amazon S3 Part 2, CloudFront & Route 53](https://www.youtube.com/live/lcYzczOy-lA?si=mFqIAtbG0nEHBT5T)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 4](../04-Hands-On/02-Intermediate/aws-solutions-architect-associate/lab-4.md)
 
 ## Week 5
 ### Advanced Security, IAM & Data Access
@@ -39,7 +39,7 @@
 - [ ] [Deployment, Automation, Security & Identity Services](https://www.youtube.com/live/ERYp-5Z9-Is?si=98tYO8ej-qoZgUh4)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 5](../04-Hands-On/02-Intermediate/aws-solutions-architect-associate/lab-5.md)
 
 ## Week 6
 ### Storage, Serverless & Microservices
@@ -47,7 +47,7 @@
 - [ ] [Amazon Storage Services II & Containers](https://www.youtube.com/live/4yNcx-ooDNY?si=4Tu5ZGIDu7jl9IoR)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 6](../04-Hands-On/02-Intermediate/aws-solutions-architect-associate/lab-6.md)
 
 ## Week 7
 ### Decoupled Architectures, Monitoring & Automation
@@ -55,14 +55,14 @@
 - [ ] [Application Integration, Messaging & Monitoring Services](https://www.youtube.com/live/YkIuG9DhowU?si=RX-jnosKoViGOZLu)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 7](../04-Hands-On/02-Intermediate/aws-solutions-architect-associate/lab-7.md)
 
 ## Week 8
 ### Data Engineering & Advanced AWS Services
 - [ ] [Analytics & Misc Services in AWS](https://www.youtube.com/live/gytRJpom-00?si=hsBfvw-rn1OEJ5Td)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 8](../04-Hands-On/02-Intermediate/aws-solutions-architect-associate/lab-8.md)
 
 ---
 

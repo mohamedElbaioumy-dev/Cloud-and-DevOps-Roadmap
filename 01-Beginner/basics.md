@@ -19,7 +19,7 @@
 - [ ] [NAT](https://youtu.be/bR8OlNmnn54?si=xUGU266GV9UBY1tN)
 
 #### Tasks
-- [ ] Task
+- [ ] [Lab 1](../04-Hands-On/01-Beginner/network/lab-1.md)
 
 #### Additional Resources (Arabic)
 - [Sameh Ramadan - CompTIA Network+](https://www.youtube.com/playlist?list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He)
@@ -49,7 +49,7 @@
 - [ ] [CH08_Monitoring and Managing Linux Processes](https://maharatech.gov.eg/course/section.php?id=7396)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 2](../04-Hands-On/01-Beginner/linux/lab-2.md)
 
 ### Week 3
 - [ ] [CH09_Controlling Services and Daemons](https://maharatech.gov.eg/course/section.php?id=7397)
@@ -61,7 +61,7 @@
 - [ ] [CH15_ Accessing Linux File Systems](https://maharatech.gov.eg/course/section.php?id=7414)
 
 #### Tasks
-- [ ] Lab
+- [ ] [Lab 3](../04-Hands-On/01-Beginner/linux/lab-3.md)
 
 #### Primary Resources
 - [Karim Abd Elhamid - RHEL Administration Course (Mahara Tech)](https://maharatech.gov.eg/course/view.php?id=2115)
@@ -80,7 +80,7 @@
 - [ ] [Bash Script Tutorial](https://youtu.be/Ba65frCLQ-Y?si=fpPeX6R4wcBJssgh)
 
 #### Tasks
-- [ ] Task
+- [ ] [Lab 4](../04-Hands-On/01-Beginner/bash/lab-4.md)
 
 #### Alternative Resources (English)
 - [Learn Linux TV - Bash Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
@@ -89,6 +89,9 @@
 > **Description:** This section covers Git and GitHub fundamentals, providing the version control and collaboration skills required for modern software development, Cloud, and DevOps environments.
 
 - [ ] [Git & GitHub Tutorial](https://youtu.be/Q6G-J54vgKc?si=jcW9PYEUGvL4-nrm)
+
+#### Tasks
+- [ ] [Lab 5](../04-Hands-On/01-Beginner/git/lab-5.md)
 
 #### Alternative Resources
 - [Ghareeb Elshaikh - Git & GitHub Crash Course in Arabic](https://youtu.be/fDkR0TDR9dI?si=oG6VsfzN0oY4Ufg8)
