@@ -54,6 +54,12 @@ The learning materials provided in each section are the recommended primary reso
 - Ansible
 - Hands-on Labs
 
+### [📁 04-Hands-On](./04-Hands-On/)
+*Practical tasks and sequential labs mapped to all roadmap levels.*
+- 01-Beginner Labs
+- 02-Intermediate Labs (AWS)
+- 03-Advanced Labs (DevOps)
+
 ### 📁 04-Projects *(Coming Soon)*
 - AWS Projects
 - Automation Projects
