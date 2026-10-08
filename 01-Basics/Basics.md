@@ -49,7 +49,7 @@
 - [ ] [CH08_Monitoring and Managing Linux Processes](https://maharatech.gov.eg/course/section.php?id=7396)
 
 #### Tasks
-- [ ] Lab 1
+- [ ] Lab
 
 ### Week 3
 - [ ] [CH09_Controlling Services and Daemons](https://maharatech.gov.eg/course/section.php?id=7397)
@@ -61,7 +61,7 @@
 - [ ] [CH15_ Accessing Linux File Systems](https://maharatech.gov.eg/course/section.php?id=7414)
 
 #### Tasks
-- [ ] Lab 2
+- [ ] Lab
 
 #### Primary Resources
 - [Karim Abd Elhamid - Mahra Tech](https://maharatech.gov.eg/course/view.php?id=2115)
